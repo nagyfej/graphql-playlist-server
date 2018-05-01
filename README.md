@@ -3,7 +3,7 @@
 This is just a sample code following [a tutorial on YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f) thanks to [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
 
 ## Running the project
-To run this project you need nodejs and npm installed to your system. You should be able to run this on linux, windows and mac machine.
+To run this project you'll need nodejs and npm installed on your system. You should be able to run this on your linux, windows and mac machine.
 
 ### 1. Clone the project, than cd into the project directory:
 
@@ -36,3 +36,7 @@ node app
 
 ### 6. Try out the web interface
 Visit `http://localhost:4000/graphql` to play around with your new graphql server.
+
+### 7. Check out the graphQL client sample project
+
+The second half of the tutorial is to build a client application using react and apollo-client. To set up the client application, [follow the install instructions](https://github.com/nagyfej/graphql-booklist-client).
